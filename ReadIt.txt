@@ -1,0 +1,13 @@
+Super user
+    username : superuser
+    password : user13#!
+    
+
+
+First user
+    first_name : first_user
+    username : first_user
+    email : user@gamil.com
+    password : user13#!
+    password_reset : user13#!
+
