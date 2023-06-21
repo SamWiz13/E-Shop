@@ -29,7 +29,5 @@ E-Shop is an online shopping platform built using Django. It allows users to bro
 - Complete the purchase by providing necessary information.
 - Track the order status in the user profile.
 
-## Contributing
 
-Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines.
 
